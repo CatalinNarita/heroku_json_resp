@@ -1,4 +1,4 @@
-package com.edu;
+package com.edu.myapp;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

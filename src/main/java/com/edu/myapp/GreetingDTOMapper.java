@@ -1,4 +1,4 @@
-package com.edu;
+package com.edu.myapp;
 
 import org.mapstruct.Mapper;
 import org.mapstruct.factory.Mappers;

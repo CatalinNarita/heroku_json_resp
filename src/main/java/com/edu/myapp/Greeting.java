@@ -1,4 +1,4 @@
-package com.edu;
+package com.edu.myapp;
 
 /**
  * Created by catal on 3/25/2018
